@@ -1,5 +1,8 @@
 _repo: Kultur-Kuriosa-Zweiter-Band_63801
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63801-h/images/cover.jpg
 creator:
   author:
     agent_name: Kemmerich, Max
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52608'
     url: http://www.gutenberg.org/2009/agents/52608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63801#Kultur-Kuriosa-Zweiter-Band
 gutenberg_issued: '2020-11-18'
 gutenberg_type: Text
 identifiers:
