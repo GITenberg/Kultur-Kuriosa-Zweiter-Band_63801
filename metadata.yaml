@@ -1,0 +1,26 @@
+_repo: Kultur-Kuriosa-Zweiter-Band_63801
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kemmerich, Max
+    alias: Kemmerich, Max Philipp Albert
+    birthdate: 1876
+    deathdate: 1932
+    gutenberg_agent_id: '52608'
+    url: http://www.gutenberg.org/2009/agents/52608
+description: ''
+gutenberg_issued: '2020-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63801'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Manners and customs'
+- !lcsh 'Civilization -- History'
+- GITenberg
+title: Kultur-Kuriosa, Zweiter Band
+url: http://www.gutenberg.org/ebooks/63801
